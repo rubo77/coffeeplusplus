@@ -1,0 +1,22 @@
+ENTI-code++Layout
+-------------------
+(beta version 8.5.2007 by Ruben Barkow)
+
+
+this layout enables you to write complete texts and code only with your left hand, leaves your right hand free for the mouse or numberpad or something else.
+
+------------------------------------------------------------
+TODO:
+- define more dead-keys variants
+- the keys 'e','n',','and 't' should contain the arrow keys
+- the number pad should be changed too
+- the capslock key should be changed to a second "ALTGR"
+
+questions and suggestions send to
+Ruben Barkow
+enticode@spacetrace.org
+
+
+go into language preferences then choose a language of you chouce with nice Letters (for ex. "North-Soho") and select as layout the ENTI-Code++ Layout
+
+If you have installed an earlyer version of ENTI-Key++, to install a new version go into language preferences and delete the layout there. Then go into C:Windows/System32 and delete all files there, starting with ENTI...
