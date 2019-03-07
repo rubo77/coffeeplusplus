@@ -1,4 +1,4 @@
-ENTI-code++Layout
+Coffee++Layout
 -------------------
 (beta version 8.5.2007 by Ruben Barkow)
 
@@ -17,6 +17,6 @@ Ruben Barkow
 enticode@spacetrace.org
 
 
-go into language preferences then choose a language of you chouce with nice Letters (for ex. "North-Soho") and select as layout the ENTI-Code++ Layout
+go into language preferences then choose a language of your choice with nice Letters (for ex. "North-Soho") and select as layout the Coffee++ Layout
 
-If you have installed an earlyer version of ENTI-Key++, to install a new version go into language preferences and delete the layout there. Then go into C:Windows/System32 and delete all files there, starting with ENTI...
+If you have installed an earlier version of Coffee++, to install a new version go into language preferences and delete the layout there. Then go into C:Windows/System32 and delete all files there, starting with ENTI...
